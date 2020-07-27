@@ -158,7 +158,9 @@ QString AboutDialog::aboutPage()
                       "Copyright (c) 2006 - 2011, the LibQxt project", "http://libqxt.org")
             + helpLib("Solarized",
                       "Copyright (c) 2011 Ethan Schoonover", "http://ethanschoonover.com/solarized")
-
+            + helpLib("GetPageSpeed Packaging",
+                      "Copyright (c) 2020 Danila Vershinin", "https://www.getpagespeed.com/redhat")
+        
         + "<p></p>"
 
         "</body></html>";
